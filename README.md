@@ -13,4 +13,4 @@ Origional presntation Google slides can be seen here: https://docs.google.com/pr
 
 ## Single color
 
-![Single color](street-epistemology-logo.svg)
+![Single color](street-epistemology-logo-one-color.svg)
