@@ -9,7 +9,7 @@ Origional presntation Google slides can be seen here: https://docs.google.com/pr
 
 ## Base Logo  v2
 
-![Base Logo](street-epistemology-logo.svg)
+![Base Logo](./street-epistemology-logo.svg)
 
 ## Single color
 
