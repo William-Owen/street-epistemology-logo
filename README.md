@@ -11,6 +11,6 @@ Origional presntation Google slides can be seen here: https://docs.google.com/pr
 
 ![Base Logo](street-epistemology-logo.svg)
 
-## Single color
+## Single color v2
 
 ![Single color](street-epistemology-logo-one-color.svg)
